@@ -1,6 +1,3 @@
-torch
-torchaudio 
-torchvision
 accelerate
 salesforce-lavis
 transformers
